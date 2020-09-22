@@ -21,7 +21,7 @@
 
    □Or One Line Command
   
-   pkg install git -y && git clone https://github.com/Lafeer007/Msfinstaller.git && cd Msfinstaller && bash msf_installer.sh
+   pkg install git -y && git clone https://github.com/Lafeer007/Msfinstaller.git && cd Msfinstaller && bash msfinstaller.sh
 
 
       
