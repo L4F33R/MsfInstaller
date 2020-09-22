@@ -15,13 +15,13 @@
   ○Commands:
    
   ●pkg install git -y
-  ●git clone https://github.com/Lafeer007/MsfInstaller.git
+  ●git clone https://github.com/L4F33R/MsfInstaller.git
   ●cd MsfInstaller
   ●bash msfinstaller.sh
 
    □Or One Line Command
   
-   pkg install git -y && git clone https://github.com/Lafeer007/MsfInstaller.git && cd MsfInstaller && bash msfinstaller.sh
+   pkg install git -y && git clone https://github.com/L4F33R/MsfInstaller.git && cd MsfInstaller && bash msfinstaller.sh
 
 
       
