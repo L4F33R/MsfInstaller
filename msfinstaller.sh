@@ -1,7 +1,7 @@
 pkg install git -y
 pkg install curl -y
 pkg install ruby -y
-pkg install gem -y
+pkg install nano -y
 gem install bundler:1.17.3
 curl -LO https://github.com/termux/termux-packages/files/3960686/metasploit_5.0.56_android5_all.deb.gz
 gunzip metasploit_5.0.56_android5_all.deb.gz
