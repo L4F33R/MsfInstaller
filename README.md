@@ -1,5 +1,5 @@
 # MsfInstaller
-●Install Metasploit-Framework v5.0.56 In Termux
+●Install Metasploit-Framework v6.0 In Termux
 
 ●This Tool Only I Made For Termux 
 
@@ -9,19 +9,19 @@
 
 ●No MsF Errors
 
-●Tested On : Galaxy j7, Galaxy Note3.
+●Tested On : Galaxy j7, Galaxy Note3, Galaxy J6 and Lenovo Tab A series.
 
 ●Installation:
   ○Commands:
    
-  ●pkg install git -y
-  ●git clone https://github.com/L4F33R/MsfInstaller.git
-  ●cd MsfInstaller
-  ●bash msfinstaller.sh
+  ● pkg install git -y
+  ● git clone https://github.com/L4F33R/MsfInstaller.git
+  ● cd MsfInstaller
+  ● bash msfinstallerv2.0_.sh
 
-   □Or One Line Command
+   [+]or One Line Command
   
-   pkg install git -y && git clone https://github.com/L4F33R/MsfInstaller.git && cd MsfInstaller && bash msfinstaller.sh
+   pkg install git -y && git clone https://github.com/L4F33R/MsfInstaller.git && cd MsfInstaller && bash msfinstallerv2.0_.sh
 
 
       
